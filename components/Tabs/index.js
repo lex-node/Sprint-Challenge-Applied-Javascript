@@ -22,6 +22,7 @@ axios.get("https://lambda-times-backend.herokuapp.com/topics")
 
 const tabMaker = (topic) => {
     let tabElement = document.createElement("div");
+    tabElement.classList.add("tab");
     tabElement.textContent = `${topic}`;
 
     const topicsElement = document.querySelector(".topics");
