@@ -24,8 +24,7 @@ axios.get("https://lambda-times-backend.herokuapp.com/articles")
         let articlesObj = successData.data.articles;
 
         for (let articleType in articlesObj) {
-           let articleTypeArray = articlesObj[articleType];
-           console.log(articleTypeArray);
+            let articleTypeArray = articlesObj[articleType];
             articleTypeArray.forEach(articleObj => cardMaker(articleObj));
         }
 
