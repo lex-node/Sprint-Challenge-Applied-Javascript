@@ -42,7 +42,7 @@ an event listener is a function that triggers upon the occurrence of a particula
 
 4. Why would we convert a NodeList into an Array?
 
-to allow use of additional elements beyond those provided by the DOM
+to allow use of additional methods beyond those provided by the DOM
 
 5. What is a component?
 

@@ -82,3 +82,4 @@ document.querySelector(".right-button").addEventListener("click", img => {
     }
     carouselImages[currentCarouselImageIndex].style.display = "flex";
 })
+
