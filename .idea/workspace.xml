@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0a750f11-9acd-4af5-b709-af5fbf26acfd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Carousel/Carousel.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/Carousel/Carousel.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,12 +24,12 @@
     </option>
   </component>
   <component name="ProjectId" id="1amNiCmWbIqT3XGdaNGyRmt7YkV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -46,7 +46,8 @@
       <option name="presentableId" value="Default" />
       <updated>1563756854872</updated>
       <workItem from="1563756856243" duration="11955000" />
-      <workItem from="1587336936280" duration="6851000" />
+      <workItem from="1587336936280" duration="7533000" />
+      <workItem from="1587344504387" duration="1333000" />
     </task>
     <task id="LOCAL-00001" summary="answers questions and updates README checklist">
       <created>1587337486967</created>
@@ -90,7 +91,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587343641186</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="begin carousel stretch">
+      <created>1587343811838</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1587343811838</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -103,14 +111,15 @@
     <MESSAGE value="completes Tabs component and updates README.md" />
     <MESSAGE value="completes Cards component and updates README.md" />
     <MESSAGE value="adds idea to ignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="adds idea to ignore" />
+    <MESSAGE value="begin carousel stretch" />
+    <option name="LAST_COMMIT_MESSAGE" value="begin carousel stretch" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="565" y="27" width="939" height="943" key="CommitChangelistDialog2" timestamp="1587343641138">
+    <state x="565" y="27" width="939" height="943" key="CommitChangelistDialog2" timestamp="1587343811790">
       <screen x="67" y="27" width="3773" height="943" />
     </state>
     <state x="67" y="27" width="932" height="934" key="CommitChangelistDialog2/67.27.1837.934@67.27.1837.934" timestamp="1587337486811" />
-    <state x="565" y="27" width="939" height="943" key="CommitChangelistDialog2/67.27.3773.943@67.27.3773.943" timestamp="1587343641138" />
+    <state x="565" y="27" width="939" height="943" key="CommitChangelistDialog2/67.27.3773.943@67.27.3773.943" timestamp="1587343811790" />
   </component>
 </project>
