@@ -12,7 +12,6 @@
 axios.get(`https://lambda-times-backend.herokuapp.com/topics`)
     .then(topicData => {
         let topics = topicData.data.topics;
-        console.log(topics);
         tabCreator(topics);
     })
     .catch(err => {
@@ -25,7 +24,6 @@ const tabCreator = (topicsArr) => {
         topicDiv = document.createElement('div');
         topicDiv.classList.add('tab');
         topicDiv.textContent = topic;
-        console.log(topicDiv);
         return document.querySelector('.title').appendChild(topicDiv);
     })
 }
