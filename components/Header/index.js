@@ -31,9 +31,6 @@ function Header() {
     tempSpan.textContent = '98°';
     headerElement.appendChild(tempSpan);
 
-    console.log(headerElement);
-
-
     return headerElement;
 }
 
