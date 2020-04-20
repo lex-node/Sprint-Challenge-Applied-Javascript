@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0a750f11-9acd-4af5-b709-af5fbf26acfd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/Sprint-Challenge-Applied-Javascript.iml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1amNiCmWbIqT3XGdaNGyRmt7YkV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0a750f11-9acd-4af5-b709-af5fbf26acfd" name="Default Changelist" comment="" />
+      <created>1563756854872</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1563756854872</updated>
+      <workItem from="1563756856243" duration="11955000" />
+      <workItem from="1587336936280" duration="6851000" />
+    </task>
+    <task id="LOCAL-00001" summary="answers questions and updates README checklist">
+      <created>1587337486967</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1587337486967</updated>
+    </task>
+    <task id="LOCAL-00002" summary="completes Header component and updates README checklist">
+      <created>1587339903308</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1587339903308</updated>
+    </task>
+    <task id="LOCAL-00003" summary="completes Tabs component and updates README.md">
+      <created>1587341487616</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1587341487616</updated>
+    </task>
+    <task id="LOCAL-00004" summary="completes Cards component and updates README.md">
+      <created>1587343440815</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1587343440815</updated>
+    </task>
+    <task id="LOCAL-00005" summary="adds idea to ignore">
+      <created>1587343575020</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1587343575020</updated>
+    </task>
+    <task id="LOCAL-00006" summary="adds idea to ignore">
+      <created>1587343641186</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1587343641186</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="answers questions and updates README checklist" />
+    <MESSAGE value="completes Header component" />
+    <MESSAGE value="completes Header component and updates README checklist" />
+    <MESSAGE value="completes Tabs component and updates README.md" />
+    <MESSAGE value="completes Cards component and updates README.md" />
+    <MESSAGE value="adds idea to ignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="adds idea to ignore" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="565" y="27" width="939" height="943" key="CommitChangelistDialog2" timestamp="1587343641138">
+      <screen x="67" y="27" width="3773" height="943" />
+    </state>
+    <state x="67" y="27" width="932" height="934" key="CommitChangelistDialog2/67.27.1837.934@67.27.1837.934" timestamp="1587337486811" />
+    <state x="565" y="27" width="939" height="943" key="CommitChangelistDialog2/67.27.3773.943@67.27.3773.943" timestamp="1587343641138" />
+  </component>
+</project>
